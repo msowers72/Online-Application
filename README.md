@@ -22,7 +22,7 @@
 This application allows you to apply for membership in the U.S.ARMY'S Judge Advocate General's Coprs.
 
 ## Usage
-As a user, I can submit an online application for membership in teh U.S.ARMY'S Judge Advocate General's Coprs .
+As a user, I can submit an online application for membership in the U.S.ARMY'S Judge Advocate General's Coprs .
 
 ## Built-With
 * HTML
