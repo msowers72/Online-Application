@@ -41,7 +41,7 @@ As a user, I can submit an online application for membership in teh U.S.ARMY'S J
  
  
  ![images](./src/images/Screenshot%201.png) 
- ![images](./src/images/FSO_Interview_3.jpg) 
+ ![images](./src/images/Screenshot%202.png) 
  
 
 

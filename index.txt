@@ -1,0 +1,6 @@
+.bg-img{
+  background: url('../images/FSO_Interview_3.jpg');
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+}
