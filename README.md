@@ -19,10 +19,10 @@
 <msowers72@yahoo.com>
 
 ## Description:
-This application searches and displays results from the Library of Conress API.
+This application allows you to apply for membership in the U.S.ARMY'S Judge Advocate General's Coprs.
 
 ## Usage
-As a user, I can submit a search query form the application to request data and receive a response from the Library of Congress.
+As a user, I can submit an online application for membership in teh U.S.ARMY'S Judge Advocate General's Coprs .
 
 ## Built-With
 * HTML
@@ -40,7 +40,7 @@ As a user, I can submit a search query form the application to request data and 
  [Search-Tool](https://msowers72.github.io/Search-Tool/)
  
  
- ![images](./src/images/FSO_Interview_1.jpg) 
+ ![images](./src/images/Screenshot%201.png) 
  ![images](./src/images/FSO_Interview_3.jpg) 
  
 
